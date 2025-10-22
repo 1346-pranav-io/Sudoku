@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# IDE files
+/.idea/
+/*.iml
+/.vscode/
+
+# Build folders
+/bin/
+/out/
+/target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore libraries if you don't want to commit them
+# lib/*.jar
